@@ -1,0 +1,227 @@
+commit 60cfd8a4deecf6cccf7ec992722e78f4f38a51c9 
+
+Author: Rasmus Stenberg <rasmus.stenberg@helsinki.fi> 
+
+Date:   Thu Nov 3 14:34:57 2022 +0200 
+
+  
+
+    file muutokset 
+
+  
+
+tiedostoja/file2.txt                 | 0 
+
+tiedostoja/{file1.txt => file22.txt} | 0 
+
+2 files changed, 0 insertions(+), 0 deletions(-) 
+
+  
+
+commit 4a35870edf7541b80608acc36a511fd71fcb7e4c 
+
+Author: Rasmus Stenberg <rasmus.stenberg@helsinki.fi> 
+
+Date:   Thu Nov 3 14:31:47 2022 +0200 
+
+  
+
+    tiedostoja lisätty 
+
+  
+
+tiedostoja/file1.txt | 0 
+
+tiedostoja/file2.txt | 0 
+
+tiedostoja/file3.txt | 0 
+
+3 files changed, 0 insertions(+), 0 deletions(-) 
+
+  
+
+commit 7edd87ccc9471e2b01065554473f7e7323730595 
+
+Author: Rasmus Stenberg <rasmus.stenberg@helsinki.fi> 
+
+Date:   Thu Nov 3 14:26:20 2022 +0200 
+
+  
+
+    muutokset 
+
+  
+
+eka.txt    | 5 +---- 
+
+kolmas.txt | 3 ++- 
+
+2 files changed, 3 insertions(+), 5 deletions(-) 
+
+  
+
+commit d4933745f70236900f1ec0129f646445f15f05bf 
+
+Author: Rasmus Stenberg <rasmus.stenberg@helsinki.fi> 
+
+Date:   Thu Nov 3 14:24:41 2022 +0200 
+
+  
+
+    nimen vaihdon 
+
+  
+
+tiedosto.txt => eka.txt | 0 
+
+1 file changed, 0 insertions(+), 0 deletions(-) 
+
+  
+
+commit 1a48b4ee56d5350beeb058d0613072d9f52d83c6 
+
+Author: Rasmus Stenberg <rasmus.stenberg@helsinki.fi> 
+
+Date:   Thu Nov 3 14:23:24 2022 +0200 
+
+  
+
+    toinen.txt poistettu 
+
+  
+
+toinen.txt | 1 - 
+
+1 file changed, 1 deletion(-) 
+
+  
+
+commit 9397cad6d666f64a250c2672a6540474916a7a92 
+
+Author: Rasmus Stenberg <rasmus.stenberg@helsinki.fi> 
+
+Date:   Thu Nov 3 14:20:11 2022 +0200 
+
+  
+
+    tekstiä muokattu 
+
+  
+
+tiedosto.txt | 3 +-- 
+
+1 file changed, 1 insertion(+), 2 deletions(-) 
+
+  
+
+commit d1f179a08d3fc30415afe945addb6ed1c217ed5c 
+
+Author: Rasmus Stenberg <rasmus.stenberg@helsinki.fi> 
+
+Date:   Thu Nov 3 14:19:18 2022 +0200 
+
+  
+
+    tekstiä lsätty 
+
+  
+
+tiedosto.txt | 11 ++++++++++- 
+
+1 file changed, 10 insertions(+), 1 deletion(-) 
+
+  
+
+commit e1cf9bc5000a271fff87177ed04975ac3f83586d 
+
+Author: Rasmus Stenberg <rasmus.stenberg@helsinki.fi> 
+
+Date:   Thu Nov 3 14:10:31 2022 +0200 
+
+  
+
+    added stuff 
+
+  
+
+stuff/abb.txt | 0 
+
+1 file changed, 0 insertions(+), 0 deletions(-) 
+
+  
+
+commit 941b60d5cf27817bf831e614023986a61277e94b 
+
+Author: Rasmus Stenberg <rasmus.stenberg@helsinki.fi> 
+
+Date:   Thu Nov 3 14:07:46 2022 +0200 
+
+  
+
+    muutokset 
+
+  
+
+kolmas.txt | 1 + 
+
+toinen.txt | 1 + 
+
+2 files changed, 2 insertions(+) 
+
+  
+
+commit 74491841045b67d5a126cd7faca0f3b2fe7d2bac 
+
+Author: Rasmus Stenberg <rasmus.stenberg@helsinki.fi> 
+
+Date:   Thu Nov 3 14:06:57 2022 +0200 
+
+  
+
+    kolmas.txt lisätty 
+
+  
+
+kolmas.txt | 0 
+
+1 file changed, 0 insertions(+), 0 deletions(-) 
+
+  
+
+commit c5057e52bef3bff5b956a62f131effeb19e8b0fb 
+
+Author: Rasmus Stenberg <rasmus.stenberg@helsinki.fi> 
+
+Date:   Thu Nov 3 14:04:41 2022 +0200 
+
+  
+
+    muutos ja lisäys 
+
+  
+
+tiedosto.txt | 2 ++ 
+
+toinen.txt   | 0 
+
+2 files changed, 2 insertions(+) 
+
+  
+
+commit 0ffb33d16e394c2dd24121133e896049a81e9345 
+
+Author: Rasmus Stenberg <rasmus.stenberg@helsinki.fi> 
+
+Date:   Thu Nov 3 14:01:10 2022 +0200 
+
+  
+
+    tiedosto.txt luotu 
+
+  
+
+tiedosto.txt | 0 
+
+1 file changed, 0 insertions(+), 0 deletions(-) 
+
+ 
