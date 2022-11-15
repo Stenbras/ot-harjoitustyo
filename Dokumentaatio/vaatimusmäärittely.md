@@ -4,7 +4,7 @@ Soveluksen avulla käyttäjien on mahdollista konvertoida audio tiedostot nuotti
 ## Käyttäjät
 Soveluksessa on vain yksi käyttäjä
 ## käytteliittymänluonnos
-![cool image](/kuvat/ui.jpg)
+![cool image](https://raw.githubusercontent.com/Stenbras/ot-harjoitustyo/master/Dokumentaatio/kuvat/ui.png)
 ## Perusversion tarjoama toiminnallisuus
  - käyttäjä voi konvertoida wav ja mp4 tiedostot nuotti tiedosto muotoon
  - käyttäjä voi tallenna nuotti tiedostot
@@ -15,4 +15,3 @@ Soveluksessa on vain yksi käyttäjä
  - käyttäjä äänittää luloja nuotti muotoon
  - soveluksessa voi vaihda nuottien instrumentit/äänet
  - soveluksessa voidan luoda monta audio tiedostoja samalla keralla
- 
