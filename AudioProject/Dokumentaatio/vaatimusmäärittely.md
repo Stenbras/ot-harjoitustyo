@@ -1,6 +1,6 @@
 # Vaatimusmäärittely
 ## Soveluksen tarkoitus
-Soveluksen avulla käyttäjien on mahdollista konvertoida audio tiedostot nuottit muotoina (esim jos audio tiedosto song.wav on joku piano laulu voit luoda song.wav ja muokka laulun nuottit). Voit myös rakentaa lulua valkoisen pohjasta.
+Soveluksen avulla käyttäjien on mahdollista konvertoida audio tiedostot nuottit muotoina (esim jos audio tiedosto song.wav on joku piano laulu voit luoda song.wav ja muokka laulun nuottit). Voit myös rakentaa lulua valkoisen pohjasta. Nouttiten teidosto on teksti tiedost missä nuottit ovat tallenettu sarakkessa kaikille "time division":ille
 ## Käyttäjät
 Soveluksessa on vain yksi käyttäjä
 ## käytteliittymänluonnos
